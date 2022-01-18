@@ -16,6 +16,8 @@ Start an activity in voice channel.
 ## Memes (used to have dad jokes)
 Fetch a random meme on Reddit.
 ## Werewolf game
-A game that the bot will host a Werewolf game in your Discord guild, very gud for a game night.
+A game that the bot will host a Werewolf game in your Discord guild, very gud for a game night with everybody blaming each other.
+> Quite hard to maintain
 ## Others (help, about me, version of the bot)
 :)
+### Feel free to pull a request to change something, but you should change it yourself.
