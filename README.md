@@ -1,5 +1,6 @@
 # Horyzon
 A dead Discord Python Bot. Code is messy, unmaintainable, post it up here j4f :)
+This bot were hosted in replit so you'll see some of the bot's component have replit database.
 # License
 There is no license, you can make a copy and... try to maintain it. Good luck! :)
 # Features
