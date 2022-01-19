@@ -4,6 +4,7 @@ from json import loads
 from threading import Thread
 from random import choice
 
+#Get meme in another thread for JSON module. I'm lazy
 async def getmeme(stdout, ctx):
   stdout = loads(stdout)
   await ctx.send(embed = Embed(title = stdout["title"]).set_image(url = stdout["url"]))
