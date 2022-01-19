@@ -1,3 +1,4 @@
+#This is a very dumb code, just... move along, nothing to see here
 from nextcord import Member, Embed
 from replit import db
 async def Info(ctx, name: Member = None):
