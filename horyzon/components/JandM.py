@@ -9,6 +9,8 @@ async def getmeme(stdout, ctx):
   stdout = loads(stdout)
   await ctx.send(embed = Embed(title = stdout["title"]).set_image(url = stdout["url"]))
 
+#Choose a random subreddit:
+#Get API return using asyncio.create_subprocess_shell
 async def Meme(ctx):
   await asyncio.sleep(1)
   meme = choice(["holup", "dankmemes", "darkmemers", "memes"])
